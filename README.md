@@ -3,6 +3,9 @@
 
 <i>A php script which can resize your single or multiple images very fast and easily.</i>
 
+<h3>Authored by</h3>
+
+> miyachung
 
 <h3>Banner</h3>
 <img src="https://i.hizliresim.com/r0yw8p3.png" />
